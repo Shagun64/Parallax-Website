@@ -1,0 +1,122 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: 'Lato', sans-serif;
+}
+.one
+{
+    background-image: url(../images/image1.jpg);
+    height: 100vh;
+    width: 100%;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    opacity: 0.7;
+}
+.one > h1
+{
+    background-color: black;
+    margin: auto;
+    width: fit-content;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    top: 50vh;
+    color: white;
+    font-weight: 100;
+    letter-spacing: 5px;
+    outline: none;
+}
+.para-one 
+{
+    text-align: center;
+    padding: 50px 70px;
+    background-color: #f4f4f4;
+    color: #666;
+}
+.para-one h2
+{
+    margin-bottom: 20px;
+}
+.para-one p
+{
+    line-height: 2;
+}
+.two
+{
+    background-image: url(../images/image2.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    position: relative;
+    opacity: 0.7;
+}
+.two > h1
+{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    color: white;
+}
+.para-two 
+{
+    text-align: center;
+    padding: 100px;
+    background-color: #282e34;
+    color: #ddd;
+}
+.para-two h2
+{
+    margin-bottom: 20px;
+}
+.para-two p
+{
+    line-height: 2;
+}
+.three
+{
+    background-image: url(../images/image3.jpg);
+    height: 400px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    position: relative;
+    opacity: 0.7;
+}
+.three > h1
+{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    color: white;
+}
+.para-two 
+{
+    text-align: center;
+    padding: 100px;
+    background-color: #282e34;
+    color: #ddd;
+}
+.para-two h2
+{
+    margin-bottom: 20px;
+}
+.para-two p
+{
+    line-height: 2;
+}
